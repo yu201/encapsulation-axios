@@ -1,6 +1,6 @@
 import axios from 'axios';
 import qs from 'qs';
-axios.defaults.baseURL = 'http://47.93.186.82:8883';
+axios.defaults.baseURL = '';
 axios.defaults.timeout = 5000;
 // axios.defaults.headers.common['Authorization'] = AUTH_TOKEN;
 // axios.defaults.headers.post['Content-Type'] = 'application/x-www-form-urlencoded';
